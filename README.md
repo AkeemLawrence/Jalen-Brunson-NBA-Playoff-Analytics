@@ -26,7 +26,7 @@ This project includes:
 
 ## Notebook
 
-`NBAFinalsGame 1 and 2.ipynb`
+`NBAFinalsGame1and2.ipynb`
 
 ## Future Development
 
